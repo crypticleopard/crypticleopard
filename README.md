@@ -9,3 +9,8 @@
 - 💬 Ask me about django or reactjs
 - 📫 How to reach me: Email: tarunsingh@iipe.ac.in
 - ⚡ Fun fact: I really don't know what to write here 
+<br/>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=crypticleopard&show_icons=true)  
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crypticleopard&show_icons=true&repo=crypticleopard" />
