@@ -8,7 +8,7 @@
 - 🤔 I’m looking for help with documentation of iipedia
 - 💬 Ask me about django or reactjs
 - 📫 How to reach me: Email: tarunsingh@iipe.ac.in
-- ⚡ Fun fact: I really don't know what to write here 
+- ⚡ Fun fact: Now I really don't know what to write here 
 <br/>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=crypticleopard&show_icons=true)  
