@@ -1,7 +1,5 @@
 ### Hi there 👋 I am Tarun Singh
 
-<!--
-**crypticleopard/crypticleopard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🎓 Sophomore at IIPE VIZAG
 - 🎓 Pursuing Bachelor of Technology majoring in Petroleum Engineering
